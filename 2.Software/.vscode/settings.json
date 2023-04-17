@@ -1,0 +1,18 @@
+{
+    "idf.adapterTargetName": "esp32s3",
+    "idf.openOcdConfigs": [
+        "interface/ftdi/esp32_devkitj_v1.cfg",
+        "target/esp32s3.cfg"
+    ],
+    "files.associations": {
+        "esp_log.h": "c",
+        "i2s.h": "c",
+        "usb_serial_jtag.h": "c",
+        "esp_http_client.h": "c",
+        "esp_event.h": "c",
+        "esp_netif.h": "c",
+        "*.ipp": "c"
+    },
+    "idf.flashType": "UART",
+    "idf.portWin": "COM9"
+}
