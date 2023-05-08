@@ -1,0 +1,27 @@
+Added Component: Designator=U9(QFN-20_4X4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES41.18.12.04.00.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES41181204000000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Audio ICs"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC54_1 Pin=U9-1
+Added Pin To Net: NetName=GPIO2 Pin=U9-2
+Added Pin To Net: NetName=DVDD Pin=U9-3
+Added Pin To Net: NetName=DVDD Pin=U9-4
+Added Pin To Net: NetName=ADC_MIC4N Pin=U9-5
+Added Pin To Net: NetName=GPIO17 Pin=U9-6
+Added Pin To Net: NetName=ASDOUT Pin=U9-7
+Added Pin To Net: NetName=GPIO47 Pin=U9-8
+Added Pin To Net: NetName=GPIO15 Pin=U9-9
+Added Pin To Net: NetName=ADC_MIC4N Pin=U9-10
+Added Pin To Net: NetName=AVDD Pin=U9-11
+Added Pin To Net: NetName=NetC60_1 Pin=U9-12
+Added Pin To Net: NetName=NetC58_1 Pin=U9-13
+Added Pin To Net: NetName=DACVREF Pin=U9-14
+Added Pin To Net: NetName=ADCVREF Pin=U9-15
+Added Pin To Net: NetName=VMID Pin=U9-16
+Added Pin To Net: NetName=MIC1N Pin=U9-17
+Added Pin To Net: NetName=MIC1P Pin=U9-18
+Added Pin To Net: NetName=NetC55_1 Pin=U9-19
+Added Pin To Net: NetName=Codec_CE Pin=U9-20
+Added Pin To Net: NetName=ADC_MIC4N Pin=U9-21
+Added Member To Class: ClassName=05_Codec Member=Component U9 ES8311

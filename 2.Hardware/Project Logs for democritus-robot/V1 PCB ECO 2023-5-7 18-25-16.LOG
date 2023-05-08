@@ -1,0 +1,20 @@
+Added Component: Designator=U10(MSOP-8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES41.18.04.01.00.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES41180401000000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Audio ICs"; VariantName = "[No Variations]"
+Added Component: Designator=U17(VSSOP-8_3x3x065P)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GPIO46 Pin=U10-1
+Added Pin To Net: NetName=NetC75_1 Pin=U10-2
+Added Pin To Net: NetName=PA_PVDD1 Pin=U10-6
+Added Pin To Net: NetName=PA_GND Pin=U10-7
+Added Pin To Net: NetName=NetU16_4 Pin=U17-1
+Added Pin To Net: NetName=NetC110_1 Pin=U17-2
+Added Pin To Net: NetName=MUTE_DATA Pin=U17-3
+Added Pin To Net: NetName=GND Pin=U17-4
+Added Pin To Net: NetName=NetC112_1 Pin=U17-6
+Added Pin To Net: NetName=SLG_3V3 Pin=U17-7
+Added Pin To Net: NetName=SLG_3V3 Pin=U17-8
+Added Member To Class: ClassName=05_Codec Member=Component U10 NS4150
+Added Member To Class: ClassName=07_Mute Member=Component U17 SN74LVC2G74

@@ -1,0 +1,5 @@
+Added Component: Designator=PAD2(2pin)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetC79_2 Pin=PAD2-1
+Added Pin To Net: NetName=NetC82_1 Pin=PAD2-2
+Added Member To Class: ClassName=05_Codec Member=Component PAD2 SMD2_2P54

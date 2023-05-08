@@ -257,14 +257,14 @@ void app_main()
     ESP_ERROR_CHECK(example_connect());
     ESP_LOGI(TAG, "Connected to AP, begin http example");
     //http初始化
-    esp_http_client_config_t config = 
-    {
-        .url = "http://vop.baidu.com/server_api?dev_pid=1536&cuid=ESP32_HanChenen521&token=24.5af78a8f13afcd9a592624865bbd5eac.2592000.1562320078.282335-15514068"
-    };       
-    esp_http_client_handle_t client = esp_http_client_init(&config);
+    // esp_http_client_config_t config = 
+    // {
+    //     .url = "http://vop.baidu.com/server_api?dev_pid=1536&cuid=ESP32_HanChenen521&token=24.5af78a8f13afcd9a592624865bbd5eac.2592000.1562320078.282335-15514068"
+    // };       
+    // esp_http_client_handle_t client = esp_http_client_init(&config);
     
-    xSemaphore = xSemaphoreCreateBinary();
-    xSemaphoreMutex = xSemaphoreCreateMutex();
+    // xSemaphore = xSemaphoreCreateBinary();
+    // xSemaphoreMutex = xSemaphoreCreateMutex();
     
     //创建任务
     task_flag = 1;

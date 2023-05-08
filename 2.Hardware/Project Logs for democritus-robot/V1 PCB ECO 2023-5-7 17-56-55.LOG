@@ -1,0 +1,15 @@
+Added Component: Designator=L1(L4040)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L2(L4040)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L3(L4040)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetL1_1 Pin=L1-1
+Added Pin To Net: NetName=MCU_VDD Pin=L1-2
+Added Pin To Net: NetName=NetL2_1 Pin=L2-1
+Added Pin To Net: NetName=VDD33 Pin=L2-2
+Added Pin To Net: NetName=NetL3_1 Pin=L3-1
+Added Pin To Net: NetName=Aud_VDD Pin=L3-2
+Added Member To Class: ClassName=02_Power Member=Component L1 2.2uH(20%)_3A
+Added Member To Class: ClassName=02_Power Member=Component L2 2.2uH(20%)_3A
+Added Member To Class: ClassName=02_Power Member=Component L3 2.2uH(20%)_3A

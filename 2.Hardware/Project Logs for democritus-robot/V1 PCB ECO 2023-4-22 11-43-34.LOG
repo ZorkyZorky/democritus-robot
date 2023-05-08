@@ -1,0 +1,187 @@
+Added Component: Designator=U7(WS2812B(3528))
+Add component. Clean all parameters for all variants
+Added Component: Designator=U8(WS2812B(3528))
+Add component. Clean all parameters for all variants
+Added Component: Designator=U12(WS2812B(3528))
+Add component. Clean all parameters for all variants
+Added Component: Designator=U13(WS2812B(3528))
+Add component. Clean all parameters for all variants
+Added Component: Designator=U15(WS2812B(3528))
+Add component. Clean all parameters for all variants
+Added Component: Designator=U18(WS2812B(3528))
+Add component. Clean all parameters for all variants
+Added Net: Name=ADC_AD0
+Added Net: Name=ADC_AD1
+Added Net: Name=ADC_MIC1N
+Added Net: Name=ADC_MIC1P
+Added Net: Name=ADC_MIC2N
+Added Net: Name=ADC_MIC2P
+Added Net: Name=ADC_MIC3N
+Added Net: Name=ADC_MIC3P
+Added Net: Name=ADC_MIC4N
+Added Net: Name=ADC_MICBIAS12
+Added Net: Name=ADC_MICBIAS34
+Added Net: Name=ADC_SDOUT_BUF
+Added Net: Name=ADC_VCC33
+Added Net: Name=ADCVREF
+Added Net: Name=ASDOUT
+Added Net: Name=Aud_VDD
+Added Net: Name=AVDD
+Added Net: Name=Codec_CE
+Added Net: Name=DAC_AOUTLN
+Added Net: Name=DAC_AOUTLP
+Added Net: Name=DACVREF
+Added Net: Name=DMIC_CLK
+Added Net: Name=DVDD
+Added Net: Name=ESP_3V3
+Added Net: Name=GND_EARTH
+Added Pin To Net: NetName=GND Pin=U7-3
+Added Pin To Net: NetName=GND Pin=U8-3
+Added Pin To Net: NetName=GND Pin=U12-3
+Added Pin To Net: NetName=GND Pin=U13-3
+Added Pin To Net: NetName=GND Pin=U15-3
+Added Pin To Net: NetName=GND Pin=U18-3
+Added Net: Name=GND
+Added Net: Name=GPIO0
+Added Net: Name=GPIO1
+Added Net: Name=GPIO2
+Added Pin To Net: NetName=GPIO3 Pin=U18-4
+Added Net: Name=GPIO3
+Added Net: Name=GPIO4
+Added Net: Name=GPIO5
+Added Net: Name=GPIO6
+Added Net: Name=GPIO7
+Added Net: Name=GPIO8
+Added Net: Name=GPIO9
+Added Net: Name=GPIO10
+Added Net: Name=GPIO11
+Added Net: Name=GPIO12
+Added Net: Name=GPIO13
+Added Net: Name=GPIO14
+Added Net: Name=GPIO15
+Added Net: Name=GPIO16
+Added Net: Name=GPIO17
+Added Net: Name=GPIO18
+Added Net: Name=GPIO19
+Added Net: Name=GPIO20
+Added Net: Name=GPIO21
+Added Net: Name=GPIO38
+Added Net: Name=GPIO39
+Added Net: Name=GPIO40
+Added Net: Name=GPIO41
+Added Net: Name=GPIO42
+Added Net: Name=GPIO43
+Added Net: Name=GPIO44
+Added Net: Name=GPIO45
+Added Net: Name=GPIO46
+Added Net: Name=GPIO47
+Added Net: Name=GPIO48
+Added Net: Name=INT
+Added Net: Name=MCU_RST
+Added Net: Name=MCU_VDD
+Added Net: Name=MIC1N
+Added Net: Name=MIC1P
+Added Net: Name=MUTE_DATA
+Added Net: Name=MUTE_PWR
+Added Net: Name=MUTE_SW
+Added Net: Name=NetC1_2
+Added Net: Name=NetC7_2
+Added Net: Name=NetC12_2
+Added Net: Name=NetC21_1
+Added Net: Name=NetC24_1
+Added Net: Name=NetC25_1
+Added Net: Name=NetC26_1
+Added Net: Name=NetC27_1
+Added Net: Name=NetC31_1
+Added Net: Name=NetC32_1
+Added Net: Name=NetC33_1
+Added Net: Name=NetC35_1
+Added Net: Name=NetC36_1
+Added Net: Name=NetC37_2
+Added Net: Name=NetC38_2
+Added Net: Name=NetC40_2
+Added Net: Name=NetC41_2
+Added Net: Name=NetC42_2
+Added Net: Name=NetC43_1
+Added Net: Name=NetC45_2
+Added Net: Name=NetC54_1
+Added Net: Name=NetC55_1
+Added Net: Name=NetC58_1
+Added Net: Name=NetC58_2
+Added Net: Name=NetC60_1
+Added Net: Name=NetC60_2
+Added Net: Name=NetC75_1
+Added Net: Name=NetC79_2
+Added Net: Name=NetC80_2
+Added Net: Name=NetC82_1
+Added Net: Name=NetC84_2
+Added Net: Name=NetC110_1
+Added Net: Name=NetC112_1
+Added Net: Name=NetD1_1
+Added Net: Name=NetD3_2
+Added Net: Name=NetD7_1
+Added Net: Name=NetD7_2
+Added Net: Name=NetD15_1
+Added Net: Name=NetJ1_6
+Added Net: Name=NetJ1_12
+Added Net: Name=NetL1_1
+Added Net: Name=NetL2_1
+Added Net: Name=NetL3_1
+Added Net: Name=NetQ5_1
+Added Net: Name=NetR1_2
+Added Net: Name=NetR6_2
+Added Net: Name=NetR9_2
+Added Net: Name=NetR26_2
+Added Net: Name=NetR27_2
+Added Net: Name=NetR29_2
+Added Net: Name=NetR51_1
+Added Net: Name=NetR60_2
+Added Pin To Net: NetName=NetU7_4 Pin=U7-4
+Added Pin To Net: NetName=NetU7_4 Pin=U8-2
+Added Net: Name=NetU7_4
+Added Pin To Net: NetName=NetU8_4 Pin=U8-4
+Added Pin To Net: NetName=NetU8_4 Pin=U12-2
+Added Net: Name=NetU8_4
+Added Pin To Net: NetName=NetU12_4 Pin=U12-4
+Added Pin To Net: NetName=NetU12_4 Pin=U13-2
+Added Net: Name=NetU12_4
+Added Pin To Net: NetName=NetU13_4 Pin=U13-4
+Added Pin To Net: NetName=NetU13_4 Pin=U15-2
+Added Net: Name=NetU13_4
+Added Pin To Net: NetName=NetU15_4 Pin=U15-4
+Added Pin To Net: NetName=NetU15_4 Pin=U18-2
+Added Net: Name=NetU15_4
+Added Net: Name=NetU16_4
+Added Net: Name=PA_GND
+Added Net: Name=PA_INL+
+Added Net: Name=PA_INL-
+Added Net: Name=PA_OUTL+
+Added Net: Name=PA_OUTL-
+Added Net: Name=PA_PVDD1
+Added Net: Name=SLG_3V3
+Added Net: Name=USB_5V
+Added Net: Name=USB_DM
+Added Net: Name=USB_DP
+Added Pin To Net: NetName=V33 Pin=U7-1
+Added Pin To Net: NetName=V33 Pin=U8-1
+Added Pin To Net: NetName=V33 Pin=U12-1
+Added Pin To Net: NetName=V33 Pin=U13-1
+Added Pin To Net: NetName=V33 Pin=U15-1
+Added Pin To Net: NetName=V33 Pin=U18-1
+Added Net: Name=V33
+Added Net: Name=VDD33
+Added Net: Name=VMID
+Added Class: Name=02_Power
+Added Class: Name=03_Module
+Added Class: Name=04_ADC
+Added Class: Name=05_Codec
+Added Class: Name=06_interface
+Added Class: Name=07_Mute
+Added Class: Name=08_WS2812
+Added Room: Name=02_Power
+Added Room: Name=03_Module
+Added Room: Name=04_ADC
+Added Room: Name=05_Codec
+Added Room: Name=06_interface
+Added Room: Name=07_Mute
+Added Room: Name=08_WS2812

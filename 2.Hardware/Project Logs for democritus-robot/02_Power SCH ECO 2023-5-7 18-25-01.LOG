@@ -1,0 +1,5 @@
+Remove Pin=U10-3 From Net=PA_INL+
+Remove Pin=U10-4 From Net=PA_INL-
+Remove Pin=U10-5 From Net=PA_OUTL-
+Remove Pin=U10-8 From Net=PA_OUTL+
+Remove Pin=U17-5 From Net=MUTE_PWR

@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=PA_INL+ Pin=U10-3
+Added Pin To Net: NetName=PA_INL- Pin=U10-4
+Added Pin To Net: NetName=PA_OUTL- Pin=U10-5
+Added Pin To Net: NetName=PA_OUTL+ Pin=U10-8
+Added Pin To Net: NetName=MUTE_PWR Pin=U17-5

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GPIO0 Pin=TP37-1
+Removed Pin From Net: NetName=MCU_RST Pin=TP38-1
+Removed Member From Class: ClassName=05_interface Member=TP37
+Removed Member From Class: ClassName=05_interface Member=TP38

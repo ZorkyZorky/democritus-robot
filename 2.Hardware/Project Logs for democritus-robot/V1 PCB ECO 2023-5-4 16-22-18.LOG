@@ -1,0 +1,81 @@
+Removed Pin From Net: NetName=GND Pin=R4-1
+Removed Pin From Net: NetName=GND Pin=R5-1
+Removed Pin From Net: NetName=GPIO19 Pin=R111-2
+Removed Pin From Net: NetName=GPIO20 Pin=R112-2
+Removed Pin From Net: NetName=GND Pin=R123-2
+Removed Member From Class: ClassName=02_Power Member=R111
+Removed Member From Class: ClassName=02_Power Member=R112
+Removed Member From Class: ClassName=02_Power Member=R123
+Change Component Comment : Designator=R4 Old Comment=5.1K(1%) New Comment=0(1%)
+Change Component Comment : Designator=R5 Old Comment=5.1K(1%) New Comment=0(1%)
+Change component parameters: Designator = "R4"; Footprint = "0603_R"; UniqueID = "\SPIVBYLH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "CODE12"; Value = "ES21.02.0000.0.00.0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "ES21020000000001"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5"; Footprint = "0603_R"; UniqueID = "\JYHRQQCP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "CODE12"; Value = "ES21.02.0000.0.00.0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "ES21020000000001"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=L1(CD32)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L2(CD32)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L3(CD32)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P1(4P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U1(SOT-23-5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES41.14.04.01.00.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES41140401000000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Power ICs"; VariantName = "[No Variations]"
+Added Component: Designator=U2(SOT-23-5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES41.14.04.01.00.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES41140401000000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Power ICs"; VariantName = "[No Variations]"
+Added Component: Designator=U3(SOT-23-5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES41.14.04.01.00.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES41140401000000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Power ICs"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetL1_1 Pin=L1-1
+Added Pin To Net: NetName=MCU_VDD Pin=L1-2
+Added Pin To Net: NetName=NetL2_1 Pin=L2-1
+Added Pin To Net: NetName=VDD33 Pin=L2-2
+Added Pin To Net: NetName=NetL3_1 Pin=L3-1
+Added Pin To Net: NetName=Aud_VDD Pin=L3-2
+Added Pin To Net: NetName=GND Pin=P1-0
+Added Pin To Net: NetName=NetD1_1 Pin=P1-3
+Added Pin To Net: NetName=GPIO19 Pin=R4-2
+Added Pin To Net: NetName=GPIO20 Pin=R5-2
+Added Pin To Net: NetName=NetR1_2 Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=NetL1_1 Pin=U1-3
+Added Pin To Net: NetName=USB_5V Pin=U1-4
+Added Pin To Net: NetName=NetC1_2 Pin=U1-5
+Added Pin To Net: NetName=NetR6_2 Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=NetL2_1 Pin=U2-3
+Added Pin To Net: NetName=USB_5V Pin=U2-4
+Added Pin To Net: NetName=NetC7_2 Pin=U2-5
+Added Pin To Net: NetName=NetR9_2 Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=NetL3_1 Pin=U3-3
+Added Pin To Net: NetName=USB_5V Pin=U3-4
+Added Pin To Net: NetName=NetC12_2 Pin=U3-5
+Added Pin To Net: NetName=NetD2_2 Pin=P1-1
+Added Pin To Net: NetName=NetD2_2 Pin=R5-1
+Added Net: Name=NetD2_2
+Added Pin To Net: NetName=NetD4_2 Pin=P1-2
+Added Pin To Net: NetName=NetD4_2 Pin=R4-1
+Added Net: Name=NetD4_2
+Added Member To Class: ClassName=02_Power Member=Component L1 2.2uH(20%)_3A
+Added Member To Class: ClassName=02_Power Member=Component L2 2.2uH(20%)_3A
+Added Member To Class: ClassName=02_Power Member=Component L3 2.2uH(20%)_3A
+Added Member To Class: ClassName=02_Power Member=Component P1 4P
+Added Member To Class: ClassName=02_Power Member=Component U1 SY8088AAC
+Added Member To Class: ClassName=02_Power Member=Component U2 SY8088AAC
+Added Member To Class: ClassName=02_Power Member=Component U3 SY8088AAC

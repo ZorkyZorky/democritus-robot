@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=GND Pin=C95-2
+Removed Pin From Net: NetName=GND Pin=C96-2
+Removed Pin From Net: NetName=GND Pin=C108-2
+Removed Pin From Net: NetName=GND Pin=C109-2
+Removed Pin From Net: NetName=GND Pin=C110-2
+Removed Pin From Net: NetName=GND Pin=C111-1
+Removed Pin From Net: NetName=GND Pin=C112-2
+Removed Pin From Net: NetName=GND Pin=D13-1
+Removed Pin From Net: NetName=GND Pin=Q5-2
+Removed Pin From Net: NetName=NetR29_2 Pin=R29-2
+Removed Pin From Net: NetName=Aud_VDD Pin=R110-1
+Removed Pin From Net: NetName=MUTE_PWR Pin=R114-2
+Removed Pin From Net: NetName=GPIO1 Pin=R130-2
+Removed Pin From Net: NetName=GND Pin=SW3-3
+Removed Pin From Net: NetName=GND Pin=U16-3
+Removed Pin From Net: NetName=GND Pin=U17-4
+Removed Pin From Net: NetName=MUTE_PWR Pin=U17-5
+Removed Member From Class: ClassName=04_ADC Member=R29
+Change Net Name : Old Net Name=NetR29_2 New Net Name=NetR30_2

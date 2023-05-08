@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=D3 Old Footprint=0603_LED_S1 New Footprint=0603_L
+Change Component Footprint: Designator=D7 Old Footprint=0603_LED_S1 New Footprint=0603_L
+Added Pin To Net: NetName=MCU_VDD Pin=D3-1
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD7_1 Pin=D7-1
+Added Pin To Net: NetName=NetD7_2 Pin=D7-2

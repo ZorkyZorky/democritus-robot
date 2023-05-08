@@ -1,0 +1,1513 @@
+Added Component: Designator=C1(0402_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.04.122.6.5.2.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11041226520001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C2(0603_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.06.710.4.6.0.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11067104600000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C3(0402_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.04.510.3.6.2.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11045103620000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C4(0402_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.04.510.3.6.2.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11045103620000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C5(0603_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.06.710.4.6.0.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11067104600000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C6(0603_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.06.722.2.6.0.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11067222600001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C7(0402_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.04.122.6.5.2.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11041226520001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C8(0603_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.06.710.4.6.0.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11067104600000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C9(0402_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.04.510.3.6.2.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11045103620000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C10(0402_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.04.510.3.6.2.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11045103620000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C11(0603_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.06.710.4.6.0.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11067104600000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C12(0402_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.04.122.6.5.2.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11041226520001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C13(0603_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.06.710.4.6.0.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11067104600000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C14(0402_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.04.510.3.6.2.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11045103620000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C15(0402_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.04.510.3.6.2.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11045103620000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C16(0603_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.06.710.4.6.0.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11067104600000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C17(0603_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.06.710.4.6.0.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11067104600000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C18(0402_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.04.510.3.6.2.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11045103620000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C19(0402_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.04.610.4.6.1.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11046104610000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C20(0201_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.02.410.3.6.0.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11024103600000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C21(0201_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.02.610.3.7.0.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11026103700001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C22(0201_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.02.510.3.6.1.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11025103610001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C23(0201_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.02.510.3.6.1.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11025103610001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C24(0201_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.02.122.6.5.2.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11021226520000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C25(0201_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.02.122.6.5.2.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11021226520000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C26(0201_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.02.610.3.7.0.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11026103700001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C27(0201_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.02.610.3.7.0.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11026103700001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C28(0201_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.02.122.6.5.2.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11021226520000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C29(0201_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.02.122.6.5.2.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11021226520000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C30(0201_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.02.122.6.5.2.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11021226520000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C31(0201_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.02.610.3.7.0.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11026103700001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C32(0201_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.02.610.3.7.0.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11026103700001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C33(0201_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.02.610.3.7.0.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11026103700001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C34(0201_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.02.610.3.7.0.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11026103700001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C35(0201_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.02.610.3.7.0.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11026103700001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C36(0201_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.02.610.3.7.0.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11026103700001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C37(0201_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.02.610.3.7.0.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11026103700001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C38(0201_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.02.610.3.7.0.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11026103700001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C39(0201_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.02.610.3.7.0.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11026103700001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C40(0201_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.02.610.3.7.0.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11026103700001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C41(0201_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.02.610.3.7.0.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11026103700001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C42(0201_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.02.610.3.7.0.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11026103700001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C43(0201_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.02.610.3.7.0.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11026103700001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C44(0201_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.02.610.3.7.0.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11026103700001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C45(0201_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.02.610.3.7.0.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11026103700001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C46(0201_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.02.510.3.6.1.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11025103610001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C47(0402_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.04.710.3.7.0.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11047103700000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C48(0402_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.04.710.3.7.0.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11047103700000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C49(0201_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.02.510.3.6.1.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11025103610001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C50(0201_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.02.510.3.6.1.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11025103610001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C51(0201_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.02.122.6.5.2.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11021226520000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C52(0201_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.02.122.6.5.2.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11021226520000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C53(0201_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.02.610.3.7.0.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11026103700001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C54(0201_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.02.122.6.5.2.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11021226520000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C55(0201_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.02.122.6.5.2.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11021226520000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C56(0201_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.02.610.3.7.0.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11026103700001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C57(0201_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.02.610.3.7.0.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11026103700001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C58(0201_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.02.610.3.7.0.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11026103700001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C59(0201_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.02.510.3.6.1.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11025103610001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C60(0201_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.02.610.3.7.0.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11026103700001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C61(0201_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.02.610.3.7.0.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11026103700001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C62(0201_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.02.510.3.6.1.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11025103610001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C63(0201_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.02.122.6.5.2.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11021226520000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C64(0201_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.02.122.6.5.2.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11021226520000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C65(0201_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.02.122.6.5.2.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11021226520000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C66(0201_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.02.122.6.5.2.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11021226520000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C67(0201_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.02.122.6.5.2.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11021226520000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C75(0201_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.02.610.3.7.0.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11026103700001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C76(0201_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.02.610.3.7.0.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11026103700001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C79(0201_C)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C80(0201_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.02.510.3.6.1.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11025103610001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C81(0201_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.02.122.6.5.2.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11021226520000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C82(0201_C)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C83(0201_C)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C84(0201_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.02.510.3.6.1.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11025103610001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C85(0201_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.02.122.6.5.2.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11021226520000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C86(0402_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.04.510.2.6.2.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11045102620001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C87(0402_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.04.710.2.7.1.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11047102710000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C88(0402_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.04.510.2.6.2.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11045102620001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C100(0805_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.08.722.3.7.2.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11087223720000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C101(0805_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES11.08.722.3.7.2.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES11087223720000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=D1(SOD-123)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES31.30.0020.00.0.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES31300150000000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Diode"; VariantName = "[No Variations]"
+Added Component: Designator=D2(SOD-523)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES31.32.0020.00.0.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Filename"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES31320020000000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Diode"; VariantName = "[No Variations]"
+Added Component: Designator=D3(0603_L)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D4(SOD-523)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES31.32.0020.00.0.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Filename"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES31320020000000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Diode"; VariantName = "[No Variations]"
+Added Component: Designator=D5(SOD-523)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES31.32.0020.00.0.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Filename"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES31320020000000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Diode"; VariantName = "[No Variations]"
+Added Component: Designator=D11(SOD-882)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES31.32.0010.00.0.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Filename"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES31320010000000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Diode"; VariantName = "[No Variations]"
+Added Component: Designator=D12(SOD-882)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES31.32.0010.00.0.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Filename"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES31320010000000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Diode"; VariantName = "[No Variations]"
+Added Component: Designator=D14(SOD-882)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES31.32.0010.00.0.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Filename"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES31320010000000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Diode"; VariantName = "[No Variations]"
+Added Component: Designator=L1(L4040)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L2(L4040)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L3(L4040)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L4(0603_R)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L5(0603_R)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P1(4P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PAD2(2pin)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q1(SOT-23(SOT-23-3))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES31.46.0000.00.0.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES31460000000000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Transistor"; VariantName = "[No Variations]"
+Added Component: Designator=R1(0402_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES21.04.4100.0.00.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES21044100000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R2(0402_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES21.04.5680.0.00.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES21045680000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R3(0402_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES21.04.5150.0.00.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES21045150000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R4(0201_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES21.02.0000.0.00.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES21020000000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R5(0201_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES21.02.0000.0.00.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES21020000000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R6(0402_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES21.04.4100.0.00.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES21044100000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R7(0402_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES21.04.5680.0.00.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES21045680000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R8(0402_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES21.04.5150.0.00.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES21045150000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R9(0402_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES21.04.4100.0.00.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES21044100000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R10(0402_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES21.04.5680.0.00.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES21045680000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R11(0402_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES21.04.5150.0.00.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES21045150000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R12(0603_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES21.06.0000.0.00.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES21060000000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R13(0402_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES21.04.4100.0.00.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES21044100000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R14(0402_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES21.04.0000.0.00.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES21040000000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R15(0201_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES21.02.0000.0.00.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES21020000000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R16(0201_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES21.02.3100.0.00.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES21023100000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R17(0201_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES21.02.3100.0.00.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES21023100000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R18(0402_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES21.04.0000.0.00.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES21040000000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R19(0201_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES21.02.0000.0.00.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES21020000000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R20(0201_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES21.02.0000.0.00.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES21020000000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R21(0201_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES21.02.4100.0.00.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES21024100000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R22(0201_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES21.02.4100.0.00.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES21024100000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R23(0201_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES21.02.4100.0.00.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES21024100000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R24(0201_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES21.02.4100.0.00.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES21024100000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R25(0201_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES21.02.4100.0.00.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES21024100000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R26(0201_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES21.02.1510.0.00.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES21021510000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R27(0201_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES21.02.0000.0.00.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES21020000000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R28(0402_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES21.04.0000.0.00.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES21040000000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R30(0201_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES21.02.4100.0.00.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES21024100000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R31(0201_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES21.02.4100.0.00.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES21024100000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R32(0402_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES21.04.0000.0.00.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES21040000000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R33(0201_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES21.02.0000.0.00.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES21020000000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R34(0201_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES21.02.0000.0.00.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES21020000000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R35(0201_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES21.02.0000.0.00.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES21020000000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R36(0201_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES21.02.0000.0.00.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES21020000000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R37(0201_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES21.02.0000.0.00.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES21020000000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R40(0201_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES21.02.4100.0.00.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES21024100000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R41(0201_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES21.02.4100.0.00.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES21024100000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R42(0201_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES21.02.4100.0.00.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES21024100000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R43(0201_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES21.02.4100.0.00.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES21024100000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R44(0201_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES21.02.0000.0.00.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES21020000000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R45(0201_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES21.02.0000.0.00.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES21020000000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R46(0402_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES21.04.0000.0.00.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES21040000000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R47(0201_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES21.02.0000.0.00.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES21020000000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R48(0402_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES21.04.0000.0.00.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES21040000000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R49(0201_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES21.02.0000.0.00.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES21020000000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R50(0402_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES21.04.0000.0.00.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES21040000000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R51(0201_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES21.02.0000.0.00.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES21020000000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R52(0201_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES21.02.0000.0.00.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES21020000000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R53(0201_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES21.02.0000.0.00.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES21020000000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R60(0201_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES21.02.0000.0.00.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES21020000000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R61(0201_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES21.02.0000.0.00.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES21020000000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R66(0201_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES21.02.0000.0.00.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES21020000000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R67(0402_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES21.04.0000.0.00.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES21040000000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R68(0201_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES21.02.4100.0.00.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES21024100000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R69(0402_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES21.04.5150.0.00.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES21045150000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R70(0402_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES21.04.5150.0.00.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES21045150000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R71(0402_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES21.04.0000.0.00.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES21040000000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R72(0402_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES21.04.0000.0.00.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES21040000000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R74(0201_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES21.02.1510.0.00.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES21021510000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=SW1(Key3*4*2.5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CLASS"; Value = "DISCRETE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TIME"; Value = "2004-11-29"; VariantName = "[No Variations]"
+Added Component: Designator=SW2(Key3*4*2.5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CLASS"; Value = "DISCRETE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TIME"; Value = "2004-11-29"; VariantName = "[No Variations]"
+Added Component: Designator=TP1(TPC_D40)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP2(TPC_D40)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP3(TPC_D40)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP4(TPC_D40)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP5(TPC_D40)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES51.99.0010.00.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES51990010000000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "-"; VariantName = "[No Variations]"
+Added Component: Designator=TP6(TPC_D40)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES51.99.0010.00.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES51990010000000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "-"; VariantName = "[No Variations]"
+Added Component: Designator=TP7(TPC_D40)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES51.99.0010.00.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES51990010000000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "-"; VariantName = "[No Variations]"
+Added Component: Designator=TP8(TPC_D40)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES51.99.0010.00.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES51990010000000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "-"; VariantName = "[No Variations]"
+Added Component: Designator=TP9(TPC_D40)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES51.99.0010.00.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES51990010000000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "-"; VariantName = "[No Variations]"
+Added Component: Designator=TP37(TPC_D40)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES51.99.0010.00.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES51990010000000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "-"; VariantName = "[No Variations]"
+Added Component: Designator=TP38(TPC_D40)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES51.99.0010.00.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES51990010000000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "-"; VariantName = "[No Variations]"
+Added Component: Designator=U1(SOT-23-5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES41.14.04.01.00.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES41140401000000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Power ICs"; VariantName = "[No Variations]"
+Added Component: Designator=U2(SOT-23-5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES41.14.04.01.00.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES41140401000000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Power ICs"; VariantName = "[No Variations]"
+Added Component: Designator=U3(SOT-23-5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES41.14.04.01.00.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES41140401000000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Power ICs"; VariantName = "[No Variations]"
+Added Component: Designator=U4(ESP32-S3-WROOM-1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U5(QFN-32_5x5x05P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES41.18.14.01.00.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES41181401000000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Audio ICs"; VariantName = "[No Variations]"
+Added Component: Designator=U6(SC-70-5)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U9(QFN-20_4X4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES41.18.12.04.00.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES41181204000000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Audio ICs"; VariantName = "[No Variations]"
+Added Component: Designator=U10(MSOP-8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES41.18.04.01.00.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES41180401000000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Audio ICs"; VariantName = "[No Variations]"
+Added Component: Designator=U11(DFN-8_EP_3x3mm)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U19(MSM381)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES41.18.08.00.00.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES41180800000000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "MICs"; VariantName = "[No Variations]"
+Added Component: Designator=U20(MSM381)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES41.18.08.00.00.00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES41180800000000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "MICs"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MCU_VDD Pin=C1-1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=USB_5V Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=USB_5V Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=MCU_VDD Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=MCU_VDD Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=USB_5V Pin=C6-2
+Added Pin To Net: NetName=VDD33 Pin=C7-1
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=USB_5V Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=USB_5V Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=VDD33 Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=VDD33 Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=Aud_VDD Pin=C12-1
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Pin To Net: NetName=USB_5V Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=USB_5V Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=Aud_VDD Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=Aud_VDD Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=ESP_3V3 Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C17-2
+Added Pin To Net: NetName=ESP_3V3 Pin=C18-1
+Added Pin To Net: NetName=GND Pin=C18-2
+Added Pin To Net: NetName=MCU_RST Pin=C19-1
+Added Pin To Net: NetName=GND Pin=C19-2
+Added Pin To Net: NetName=Aud_VDD Pin=C20-1
+Added Pin To Net: NetName=MUTE_PWR Pin=C20-2
+Added Pin To Net: NetName=NetC21_1 Pin=C21-1
+Added Pin To Net: NetName=ADC_MIC4N Pin=C21-2
+Added Pin To Net: NetName=ADC_VCC33 Pin=C22-1
+Added Pin To Net: NetName=ADC_MIC4N Pin=C22-2
+Added Pin To Net: NetName=ADC_VCC33 Pin=C23-1
+Added Pin To Net: NetName=ADC_MIC4N Pin=C23-2
+Added Pin To Net: NetName=NetC24_1 Pin=C24-1
+Added Pin To Net: NetName=ADC_MIC4N Pin=C24-2
+Added Pin To Net: NetName=NetC25_1 Pin=C25-1
+Added Pin To Net: NetName=ADC_MIC4N Pin=C25-2
+Added Pin To Net: NetName=NetC26_1 Pin=C26-1
+Added Pin To Net: NetName=ADC_MIC3N Pin=C26-2
+Added Pin To Net: NetName=NetC27_1 Pin=C27-1
+Added Pin To Net: NetName=ADC_MIC3P Pin=C27-2
+Added Pin To Net: NetName=GPIO2 Pin=C28-1
+Added Pin To Net: NetName=ADC_MIC4N Pin=C28-2
+Added Pin To Net: NetName=GPIO17 Pin=C29-1
+Added Pin To Net: NetName=ADC_MIC4N Pin=C29-2
+Added Pin To Net: NetName=GPIO47 Pin=C30-1
+Added Pin To Net: NetName=ADC_MIC4N Pin=C30-2
+Added Pin To Net: NetName=NetC31_1 Pin=C31-1
+Added Pin To Net: NetName=ADC_MIC4N Pin=C31-2
+Added Pin To Net: NetName=NetC32_1 Pin=C32-1
+Added Pin To Net: NetName=ADC_MIC4N Pin=C32-2
+Added Pin To Net: NetName=NetC33_1 Pin=C33-1
+Added Pin To Net: NetName=ADC_MIC4N Pin=C33-2
+Added Pin To Net: NetName=ADC_MICBIAS34 Pin=C34-1
+Added Pin To Net: NetName=ADC_MIC4N Pin=C34-2
+Added Pin To Net: NetName=NetC35_1 Pin=C35-1
+Added Pin To Net: NetName=ADC_MIC4N Pin=C35-2
+Added Pin To Net: NetName=NetC36_1 Pin=C36-1
+Added Pin To Net: NetName=ADC_MIC4N Pin=C36-2
+Added Pin To Net: NetName=ADC_MIC1N Pin=C37-1
+Added Pin To Net: NetName=NetC37_2 Pin=C37-2
+Added Pin To Net: NetName=ADC_MIC1P Pin=C38-1
+Added Pin To Net: NetName=NetC38_2 Pin=C38-2
+Added Pin To Net: NetName=ADC_MICBIAS12 Pin=C39-1
+Added Pin To Net: NetName=ADC_MIC4N Pin=C39-2
+Added Pin To Net: NetName=ADC_MIC4N Pin=C40-1
+Added Pin To Net: NetName=NetC40_2 Pin=C40-2
+Added Pin To Net: NetName=ADC_MIC4N Pin=C41-1
+Added Pin To Net: NetName=NetC41_2 Pin=C41-2
+Added Pin To Net: NetName=ADC_MIC2P Pin=C42-1
+Added Pin To Net: NetName=NetC42_2 Pin=C42-2
+Added Pin To Net: NetName=NetC43_1 Pin=C43-1
+Added Pin To Net: NetName=ADC_MIC4N Pin=C43-2
+Added Pin To Net: NetName=NetC43_1 Pin=C44-1
+Added Pin To Net: NetName=ADC_MIC4N Pin=C44-2
+Added Pin To Net: NetName=ADC_MIC2N Pin=C45-1
+Added Pin To Net: NetName=NetC45_2 Pin=C45-2
+Added Pin To Net: NetName=Aud_VDD Pin=C46-1
+Added Pin To Net: NetName=GND Pin=C46-2
+Added Pin To Net: NetName=NetC47_1 Pin=C47-1
+Added Pin To Net: NetName=ADC_MIC4N Pin=C47-2
+Added Pin To Net: NetName=NetC48_1 Pin=C48-1
+Added Pin To Net: NetName=ADC_MIC4N Pin=C48-2
+Added Pin To Net: NetName=NetC48_1 Pin=C49-1
+Added Pin To Net: NetName=ADC_MIC4N Pin=C49-2
+Added Pin To Net: NetName=NetC47_1 Pin=C50-1
+Added Pin To Net: NetName=ADC_MIC4N Pin=C50-2
+Added Pin To Net: NetName=NetC51_1 Pin=C51-1
+Added Pin To Net: NetName=ADC_MIC4N Pin=C51-2
+Added Pin To Net: NetName=NetC52_1 Pin=C52-1
+Added Pin To Net: NetName=ADC_MIC4N Pin=C52-2
+Added Pin To Net: NetName=VMID Pin=C53-1
+Added Pin To Net: NetName=ADC_MIC4N Pin=C53-2
+Added Pin To Net: NetName=NetC54_1 Pin=C54-1
+Added Pin To Net: NetName=ADC_MIC4N Pin=C54-2
+Added Pin To Net: NetName=NetC55_1 Pin=C55-1
+Added Pin To Net: NetName=ADC_MIC4N Pin=C55-2
+Added Pin To Net: NetName=ADC_MIC4N Pin=C56-1
+Added Pin To Net: NetName=ADCVREF Pin=C56-2
+Added Pin To Net: NetName=ADC_MIC4N Pin=C57-1
+Added Pin To Net: NetName=DACVREF Pin=C57-2
+Added Pin To Net: NetName=NetC58_1 Pin=C58-1
+Added Pin To Net: NetName=NetC58_2 Pin=C58-2
+Added Pin To Net: NetName=DVDD Pin=C59-1
+Added Pin To Net: NetName=ADC_MIC4N Pin=C59-2
+Added Pin To Net: NetName=NetC60_1 Pin=C60-1
+Added Pin To Net: NetName=NetC60_2 Pin=C60-2
+Added Pin To Net: NetName=AVDD Pin=C61-1
+Added Pin To Net: NetName=ADC_MIC4N Pin=C61-2
+Added Pin To Net: NetName=DVDD Pin=C62-1
+Added Pin To Net: NetName=ADC_MIC4N Pin=C62-2
+Added Pin To Net: NetName=NetC58_1 Pin=C63-1
+Added Pin To Net: NetName=ADC_MIC4N Pin=C63-2
+Added Pin To Net: NetName=NetC60_1 Pin=C64-1
+Added Pin To Net: NetName=ADC_MIC4N Pin=C64-2
+Added Pin To Net: NetName=GPIO2 Pin=C65-1
+Added Pin To Net: NetName=ADC_MIC4N Pin=C65-2
+Added Pin To Net: NetName=GPIO17 Pin=C66-1
+Added Pin To Net: NetName=ADC_MIC4N Pin=C66-2
+Added Pin To Net: NetName=GPIO47 Pin=C67-1
+Added Pin To Net: NetName=ADC_MIC4N Pin=C67-2
+Added Pin To Net: NetName=NetC75_1 Pin=C75-1
+Added Pin To Net: NetName=PA_GND Pin=C75-2
+Added Pin To Net: NetName=PA_PVDD1 Pin=C76-1
+Added Pin To Net: NetName=PA_GND Pin=C76-2
+Added Pin To Net: NetName=PA_GND Pin=C79-1
+Added Pin To Net: NetName=NetC79_2 Pin=C79-2
+Added Pin To Net: NetName=DAC_AOUTLP Pin=C80-1
+Added Pin To Net: NetName=NetC80_2 Pin=C80-2
+Added Pin To Net: NetName=DAC_AOUTLP Pin=C81-1
+Added Pin To Net: NetName=PA_GND Pin=C81-2
+Added Pin To Net: NetName=NetC82_1 Pin=C82-1
+Added Pin To Net: NetName=NetC79_2 Pin=C82-2
+Added Pin To Net: NetName=NetC82_1 Pin=C83-1
+Added Pin To Net: NetName=PA_GND Pin=C83-2
+Added Pin To Net: NetName=DAC_AOUTLN Pin=C84-1
+Added Pin To Net: NetName=NetC84_2 Pin=C84-2
+Added Pin To Net: NetName=DAC_AOUTLN Pin=C85-1
+Added Pin To Net: NetName=PA_GND Pin=C85-2
+Added Pin To Net: NetName=MCU_VDD Pin=C86-1
+Added Pin To Net: NetName=GND Pin=C86-2
+Added Pin To Net: NetName=MCU_VDD Pin=C87-1
+Added Pin To Net: NetName=GND Pin=C87-2
+Added Pin To Net: NetName=MCU_VDD Pin=C88-1
+Added Pin To Net: NetName=GND Pin=C88-2
+Added Pin To Net: NetName=PA_PVDD1 Pin=C100-1
+Added Pin To Net: NetName=PA_GND Pin=C100-2
+Added Pin To Net: NetName=PA_PVDD1 Pin=C101-1
+Added Pin To Net: NetName=PA_GND Pin=C101-2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=USB_5V Pin=D1-2
+Added Pin To Net: NetName=GND Pin=D2-1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=MCU_VDD Pin=D3-1
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=GND Pin=D4-1
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=GND Pin=D5-1
+Added Pin To Net: NetName=NetD1_1 Pin=D5-2
+Added Pin To Net: NetName=GND Pin=D11-1
+Added Pin To Net: NetName=MCU_RST Pin=D11-2
+Added Pin To Net: NetName=GND Pin=D12-1
+Added Pin To Net: NetName=GPIO0 Pin=D12-2
+Added Pin To Net: NetName=GND Pin=D14-1
+Added Pin To Net: NetName=ESP_3V3 Pin=D14-2
+Added Pin To Net: NetName=NetL1_1 Pin=L1-1
+Added Pin To Net: NetName=MCU_VDD Pin=L1-2
+Added Pin To Net: NetName=NetL2_1 Pin=L2-1
+Added Pin To Net: NetName=VDD33 Pin=L2-2
+Added Pin To Net: NetName=NetL3_1 Pin=L3-1
+Added Pin To Net: NetName=Aud_VDD Pin=L3-2
+Added Pin To Net: NetName=NetC79_2 Pin=L4-1
+Added Pin To Net: NetName=PA_OUTL+ Pin=L4-2
+Added Pin To Net: NetName=NetC82_1 Pin=L5-1
+Added Pin To Net: NetName=PA_OUTL- Pin=L5-2
+Added Pin To Net: NetName=GND Pin=P1-0
+Added Pin To Net: NetName=NetD2_2 Pin=P1-1
+Added Pin To Net: NetName=NetD4_2 Pin=P1-2
+Added Pin To Net: NetName=NetD1_1 Pin=P1-3
+Added Pin To Net: NetName=NetC79_2 Pin=PAD2-1
+Added Pin To Net: NetName=NetC82_1 Pin=PAD2-2
+Added Pin To Net: NetName=MUTE_PWR Pin=Q1-1
+Added Pin To Net: NetName=Aud_VDD Pin=Q1-2
+Added Pin To Net: NetName=NetC21_1 Pin=Q1-3
+Added Pin To Net: NetName=USB_5V Pin=R1-1
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=MCU_VDD Pin=R2-1
+Added Pin To Net: NetName=NetC1_2 Pin=R2-2
+Added Pin To Net: NetName=NetC1_2 Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=NetD4_2 Pin=R4-1
+Added Pin To Net: NetName=GPIO19 Pin=R4-2
+Added Pin To Net: NetName=NetD2_2 Pin=R5-1
+Added Pin To Net: NetName=GPIO20 Pin=R5-2
+Added Pin To Net: NetName=USB_5V Pin=R6-1
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=VDD33 Pin=R7-1
+Added Pin To Net: NetName=NetC7_2 Pin=R7-2
+Added Pin To Net: NetName=NetC7_2 Pin=R8-1
+Added Pin To Net: NetName=GND Pin=R8-2
+Added Pin To Net: NetName=USB_5V Pin=R9-1
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=Aud_VDD Pin=R10-1
+Added Pin To Net: NetName=NetC12_2 Pin=R10-2
+Added Pin To Net: NetName=NetC12_2 Pin=R11-1
+Added Pin To Net: NetName=GND Pin=R11-2
+Added Pin To Net: NetName=MCU_VDD Pin=R12-1
+Added Pin To Net: NetName=ESP_3V3 Pin=R12-2
+Added Pin To Net: NetName=ESP_3V3 Pin=R13-1
+Added Pin To Net: NetName=MCU_RST Pin=R13-2
+Added Pin To Net: NetName=ADC_MICBIAS12 Pin=R14-1
+Added Pin To Net: NetName=NetC48_1 Pin=R14-2
+Added Pin To Net: NetName=NetC52_1 Pin=R15-1
+Added Pin To Net: NetName=ADC_MIC1P Pin=R15-2
+Added Pin To Net: NetName=MCU_VDD Pin=R16-1
+Added Pin To Net: NetName=GPIO8 Pin=R16-2
+Added Pin To Net: NetName=MCU_VDD Pin=R17-1
+Added Pin To Net: NetName=GPIO18 Pin=R17-2
+Added Pin To Net: NetName=NetC21_1 Pin=R18-1
+Added Pin To Net: NetName=ADC_VCC33 Pin=R18-2
+Added Pin To Net: NetName=NetC24_1 Pin=R19-1
+Added Pin To Net: NetName=GPIO18 Pin=R19-2
+Added Pin To Net: NetName=NetC25_1 Pin=R20-1
+Added Pin To Net: NetName=GPIO8 Pin=R20-2
+Added Pin To Net: NetName=MUTE_PWR Pin=R21-1
+Added Pin To Net: NetName=ADC_MIC4N Pin=R21-2
+Added Pin To Net: NetName=ADC_AD1 Pin=R22-1
+Added Pin To Net: NetName=ADC_VCC33 Pin=R22-2
+Added Pin To Net: NetName=ADC_AD1 Pin=R23-1
+Added Pin To Net: NetName=ADC_MIC4N Pin=R23-2
+Added Pin To Net: NetName=ADC_AD0 Pin=R24-1
+Added Pin To Net: NetName=ADC_VCC33 Pin=R24-2
+Added Pin To Net: NetName=ADC_AD0 Pin=R25-1
+Added Pin To Net: NetName=ADC_MIC4N Pin=R25-2
+Added Pin To Net: NetName=ADC_SDOUT_BUF Pin=R26-1
+Added Pin To Net: NetName=NetR26_2 Pin=R26-2
+Added Pin To Net: NetName=ADC_SDOUT_BUF Pin=R27-1
+Added Pin To Net: NetName=NetR27_2 Pin=R27-2
+Added Pin To Net: NetName=NetC43_1 Pin=R28-1
+Added Pin To Net: NetName=ADC_VCC33 Pin=R28-2
+Added Pin To Net: NetName=Aud_VDD Pin=R30-1
+Added Pin To Net: NetName=NetR30_2 Pin=R30-2
+Added Pin To Net: NetName=GND Pin=R31-1
+Added Pin To Net: NetName=NetR30_2 Pin=R31-2
+Added Pin To Net: NetName=ADC_MICBIAS12 Pin=R32-1
+Added Pin To Net: NetName=NetC47_1 Pin=R32-2
+Added Pin To Net: NetName=NetC51_1 Pin=R33-1
+Added Pin To Net: NetName=ADC_MIC2P Pin=R33-2
+Added Pin To Net: NetName=NetR34_1 Pin=R34-1
+Added Pin To Net: NetName=ADC_MIC1N Pin=R34-2
+Added Pin To Net: NetName=NetR35_1 Pin=R35-1
+Added Pin To Net: NetName=ADC_MIC2N Pin=R35-2
+Added Pin To Net: NetName=ADC_MIC4N Pin=R36-1
+Added Pin To Net: NetName=NetR35_1 Pin=R36-2
+Added Pin To Net: NetName=ADC_MIC4N Pin=R37-1
+Added Pin To Net: NetName=NetR34_1 Pin=R37-2
+Added Pin To Net: NetName=GPIO8 Pin=R40-1
+Added Pin To Net: NetName=DVDD Pin=R40-2
+Added Pin To Net: NetName=GPIO18 Pin=R41-1
+Added Pin To Net: NetName=DVDD Pin=R41-2
+Added Pin To Net: NetName=Codec_CE Pin=R42-1
+Added Pin To Net: NetName=DVDD Pin=R42-2
+Added Pin To Net: NetName=Codec_CE Pin=R43-1
+Added Pin To Net: NetName=ADC_MIC4N Pin=R43-2
+Added Pin To Net: NetName=GPIO8 Pin=R44-1
+Added Pin To Net: NetName=NetC55_1 Pin=R44-2
+Added Pin To Net: NetName=GPIO18 Pin=R45-1
+Added Pin To Net: NetName=NetC54_1 Pin=R45-2
+Added Pin To Net: NetName=Aud_VDD Pin=R46-1
+Added Pin To Net: NetName=DVDD Pin=R46-2
+Added Pin To Net: NetName=NetC58_2 Pin=R47-1
+Added Pin To Net: NetName=DAC_AOUTLN Pin=R47-2
+Added Pin To Net: NetName=AVDD Pin=R48-1
+Added Pin To Net: NetName=DVDD Pin=R48-2
+Added Pin To Net: NetName=NetC60_2 Pin=R49-1
+Added Pin To Net: NetName=DAC_AOUTLP Pin=R49-2
+Added Pin To Net: NetName=ADC_MIC4N Pin=R50-1
+Added Pin To Net: NetName=GND Pin=R50-2
+Added Pin To Net: NetName=NetR51_1 Pin=R51-1
+Added Pin To Net: NetName=ADC_MIC3P Pin=R51-2
+Added Pin To Net: NetName=DAC_AOUTLP Pin=R52-1
+Added Pin To Net: NetName=NetR51_1 Pin=R52-2
+Added Pin To Net: NetName=PA_OUTL+ Pin=R53-1
+Added Pin To Net: NetName=NetR51_1 Pin=R53-2
+Added Pin To Net: NetName=PA_OUTL- Pin=R60-1
+Added Pin To Net: NetName=NetR60_2 Pin=R60-2
+Added Pin To Net: NetName=DAC_AOUTLN Pin=R61-1
+Added Pin To Net: NetName=NetR60_2 Pin=R61-2
+Added Pin To Net: NetName=NetR60_2 Pin=R66-1
+Added Pin To Net: NetName=ADC_MIC3N Pin=R66-2
+Added Pin To Net: NetName=PA_PVDD1 Pin=R67-1
+Added Pin To Net: NetName=USB_5V Pin=R67-2
+Added Pin To Net: NetName=PA_GND Pin=R68-1
+Added Pin To Net: NetName=GPIO46 Pin=R68-2
+Added Pin To Net: NetName=NetC80_2 Pin=R69-1
+Added Pin To Net: NetName=PA_INL+ Pin=R69-2
+Added Pin To Net: NetName=NetC84_2 Pin=R70-1
+Added Pin To Net: NetName=PA_INL- Pin=R70-2
+Added Pin To Net: NetName=PA_GND Pin=R71-1
+Added Pin To Net: NetName=GND Pin=R71-2
+Added Pin To Net: NetName=ADC_MIC4N Pin=R72-1
+Added Pin To Net: NetName=PA_GND Pin=R72-2
+Added Pin To Net: NetName=NetD3_2 Pin=R74-1
+Added Pin To Net: NetName=GND Pin=R74-2
+Added Pin To Net: NetName=GND Pin=SW1-1
+Added Pin To Net: NetName=MCU_RST Pin=SW1-3
+Added Pin To Net: NetName=GND Pin=SW2-1
+Added Pin To Net: NetName=GPIO0 Pin=SW2-3
+Added Pin To Net: NetName=MCU_VDD Pin=TP1-1
+Added Pin To Net: NetName=GND Pin=TP2-1
+Added Pin To Net: NetName=VDD33 Pin=TP3-1
+Added Pin To Net: NetName=Aud_VDD Pin=TP4-1
+Added Pin To Net: NetName=INT Pin=TP5-1
+Added Pin To Net: NetName=DMIC_CLK Pin=TP6-1
+Added Pin To Net: NetName=MIC1P Pin=TP7-1
+Added Pin To Net: NetName=MIC1N Pin=TP8-1
+Added Pin To Net: NetName=ASDOUT Pin=TP9-1
+Added Pin To Net: NetName=GPIO0 Pin=TP37-1
+Added Pin To Net: NetName=MCU_RST Pin=TP38-1
+Added Pin To Net: NetName=NetR1_2 Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=NetL1_1 Pin=U1-3
+Added Pin To Net: NetName=USB_5V Pin=U1-4
+Added Pin To Net: NetName=NetC1_2 Pin=U1-5
+Added Pin To Net: NetName=NetR6_2 Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=NetL2_1 Pin=U2-3
+Added Pin To Net: NetName=USB_5V Pin=U2-4
+Added Pin To Net: NetName=NetC7_2 Pin=U2-5
+Added Pin To Net: NetName=NetR9_2 Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=NetL3_1 Pin=U3-3
+Added Pin To Net: NetName=USB_5V Pin=U3-4
+Added Pin To Net: NetName=NetC12_2 Pin=U3-5
+Added Pin To Net: NetName=GND Pin=U4-1
+Added Pin To Net: NetName=ESP_3V3 Pin=U4-2
+Added Pin To Net: NetName=MCU_RST Pin=U4-3
+Added Pin To Net: NetName=GPIO4 Pin=U4-4
+Added Pin To Net: NetName=GPIO5 Pin=U4-5
+Added Pin To Net: NetName=GPIO6 Pin=U4-6
+Added Pin To Net: NetName=GPIO7 Pin=U4-7
+Added Pin To Net: NetName=GPIO15 Pin=U4-8
+Added Pin To Net: NetName=GPIO16 Pin=U4-9
+Added Pin To Net: NetName=GPIO17 Pin=U4-10
+Added Pin To Net: NetName=GPIO18 Pin=U4-11
+Added Pin To Net: NetName=GPIO8 Pin=U4-12
+Added Pin To Net: NetName=GPIO19 Pin=U4-13
+Added Pin To Net: NetName=GPIO20 Pin=U4-14
+Added Pin To Net: NetName=GPIO3 Pin=U4-15
+Added Pin To Net: NetName=GPIO46 Pin=U4-16
+Added Pin To Net: NetName=GPIO9 Pin=U4-17
+Added Pin To Net: NetName=GPIO10 Pin=U4-18
+Added Pin To Net: NetName=GPIO11 Pin=U4-19
+Added Pin To Net: NetName=GPIO12 Pin=U4-20
+Added Pin To Net: NetName=GPIO13 Pin=U4-21
+Added Pin To Net: NetName=GPIO14 Pin=U4-22
+Added Pin To Net: NetName=GPIO21 Pin=U4-23
+Added Pin To Net: NetName=GPIO47 Pin=U4-24
+Added Pin To Net: NetName=GPIO48 Pin=U4-25
+Added Pin To Net: NetName=GPIO45 Pin=U4-26
+Added Pin To Net: NetName=GPIO0 Pin=U4-27
+Added Pin To Net: NetName=GPIO38 Pin=U4-31
+Added Pin To Net: NetName=GPIO39 Pin=U4-32
+Added Pin To Net: NetName=GPIO40 Pin=U4-33
+Added Pin To Net: NetName=GPIO41 Pin=U4-34
+Added Pin To Net: NetName=GPIO42 Pin=U4-35
+Added Pin To Net: NetName=GPIO44 Pin=U4-36
+Added Pin To Net: NetName=GPIO43 Pin=U4-37
+Added Pin To Net: NetName=GPIO2 Pin=U4-38
+Added Pin To Net: NetName=GPIO1 Pin=U4-39
+Added Pin To Net: NetName=GND Pin=U4-40
+Added Pin To Net: NetName=GND Pin=U4-41
+Added Pin To Net: NetName=GND Pin=U4-41
+Added Pin To Net: NetName=GND Pin=U4-41
+Added Pin To Net: NetName=GND Pin=U4-41
+Added Pin To Net: NetName=GND Pin=U4-41
+Added Pin To Net: NetName=GND Pin=U4-41
+Added Pin To Net: NetName=GND Pin=U4-41
+Added Pin To Net: NetName=GND Pin=U4-41
+Added Pin To Net: NetName=GND Pin=U4-41
+Added Pin To Net: NetName=ADC_AD0 Pin=U5-1
+Added Pin To Net: NetName=ADC_AD1 Pin=U5-2
+Added Pin To Net: NetName=NetC25_1 Pin=U5-3
+Added Pin To Net: NetName=NetC24_1 Pin=U5-4
+Added Pin To Net: NetName=GPIO2 Pin=U5-5
+Added Pin To Net: NetName=ADC_VCC33 Pin=U5-6
+Added Pin To Net: NetName=ADC_VCC33 Pin=U5-7
+Added Pin To Net: NetName=ADC_MIC4N Pin=U5-8
+Added Pin To Net: NetName=GPIO17 Pin=U5-9
+Added Pin To Net: NetName=GPIO47 Pin=U5-10
+Added Pin To Net: NetName=NetR26_2 Pin=U5-11
+Added Pin To Net: NetName=NetR27_2 Pin=U5-12
+Added Pin To Net: NetName=INT Pin=U5-13
+Added Pin To Net: NetName=DMIC_CLK Pin=U5-14
+Added Pin To Net: NetName=NetC37_2 Pin=U5-15
+Added Pin To Net: NetName=NetC38_2 Pin=U5-16
+Added Pin To Net: NetName=NetC40_2 Pin=U5-17
+Added Pin To Net: NetName=NetC41_2 Pin=U5-18
+Added Pin To Net: NetName=NetC42_2 Pin=U5-19
+Added Pin To Net: NetName=NetC45_2 Pin=U5-20
+Added Pin To Net: NetName=ADC_MIC4N Pin=U5-21
+Added Pin To Net: NetName=NetC43_1 Pin=U5-22
+Added Pin To Net: NetName=NetC43_1 Pin=U5-23
+Added Pin To Net: NetName=ADC_MICBIAS12 Pin=U5-24
+Added Pin To Net: NetName=NetC33_1 Pin=U5-25
+Added Pin To Net: NetName=ADC_MICBIAS34 Pin=U5-26
+Added Pin To Net: NetName=NetC32_1 Pin=U5-27
+Added Pin To Net: NetName=NetC31_1 Pin=U5-28
+Added Pin To Net: NetName=NetC35_1 Pin=U5-29
+Added Pin To Net: NetName=NetC36_1 Pin=U5-30
+Added Pin To Net: NetName=NetC27_1 Pin=U5-31
+Added Pin To Net: NetName=NetC26_1 Pin=U5-32
+Added Pin To Net: NetName=ADC_MIC4N Pin=U5-33
+Added Pin To Net: NetName=NetR30_2 Pin=U6-1
+Added Pin To Net: NetName=ADC_SDOUT_BUF Pin=U6-2
+Added Pin To Net: NetName=GND Pin=U6-3
+Added Pin To Net: NetName=GPIO16 Pin=U6-4
+Added Pin To Net: NetName=Aud_VDD Pin=U6-5
+Added Pin To Net: NetName=NetC54_1 Pin=U9-1
+Added Pin To Net: NetName=GPIO2 Pin=U9-2
+Added Pin To Net: NetName=DVDD Pin=U9-3
+Added Pin To Net: NetName=DVDD Pin=U9-4
+Added Pin To Net: NetName=ADC_MIC4N Pin=U9-5
+Added Pin To Net: NetName=GPIO17 Pin=U9-6
+Added Pin To Net: NetName=ASDOUT Pin=U9-7
+Added Pin To Net: NetName=GPIO47 Pin=U9-8
+Added Pin To Net: NetName=GPIO15 Pin=U9-9
+Added Pin To Net: NetName=ADC_MIC4N Pin=U9-10
+Added Pin To Net: NetName=AVDD Pin=U9-11
+Added Pin To Net: NetName=NetC60_1 Pin=U9-12
+Added Pin To Net: NetName=NetC58_1 Pin=U9-13
+Added Pin To Net: NetName=DACVREF Pin=U9-14
+Added Pin To Net: NetName=ADCVREF Pin=U9-15
+Added Pin To Net: NetName=VMID Pin=U9-16
+Added Pin To Net: NetName=MIC1N Pin=U9-17
+Added Pin To Net: NetName=MIC1P Pin=U9-18
+Added Pin To Net: NetName=NetC55_1 Pin=U9-19
+Added Pin To Net: NetName=Codec_CE Pin=U9-20
+Added Pin To Net: NetName=ADC_MIC4N Pin=U9-21
+Added Pin To Net: NetName=GPIO46 Pin=U10-1
+Added Pin To Net: NetName=NetC75_1 Pin=U10-2
+Added Pin To Net: NetName=PA_INL+ Pin=U10-3
+Added Pin To Net: NetName=PA_INL- Pin=U10-4
+Added Pin To Net: NetName=PA_OUTL- Pin=U10-5
+Added Pin To Net: NetName=PA_PVDD1 Pin=U10-6
+Added Pin To Net: NetName=PA_GND Pin=U10-7
+Added Pin To Net: NetName=PA_OUTL+ Pin=U10-8
+Added Pin To Net: NetName=GND Pin=U11-0
+Added Pin To Net: NetName=GND Pin=U11-4
+Added Pin To Net: NetName=MCU_VDD Pin=U11-5
+Added Pin To Net: NetName=GPIO18 Pin=U11-7
+Added Pin To Net: NetName=GPIO8 Pin=U11-8
+Added Pin To Net: NetName=NetC48_1 Pin=U19-1
+Added Pin To Net: NetName=NetR34_1 Pin=U19-2
+Added Pin To Net: NetName=NetR34_1 Pin=U19-3
+Added Pin To Net: NetName=NetC52_1 Pin=U19-4
+Added Pin To Net: NetName=NetC47_1 Pin=U20-1
+Added Pin To Net: NetName=NetR35_1 Pin=U20-2
+Added Pin To Net: NetName=NetR35_1 Pin=U20-3
+Added Pin To Net: NetName=NetC51_1 Pin=U20-4
+Added Member To Class: ClassName=01_Power Member=Component C1 22pF/50V(5%)
+Added Member To Class: ClassName=01_Power Member=Component C2 10uF/16V(10%)
+Added Member To Class: ClassName=01_Power Member=Component C3 0.1uF/10V(10%)
+Added Member To Class: ClassName=01_Power Member=Component C4 0.1uF/10V(10%)
+Added Member To Class: ClassName=01_Power Member=Component C5 10uF/16V(10%)
+Added Member To Class: ClassName=01_Power Member=Component C6 22uF/6.3V(10%)
+Added Member To Class: ClassName=01_Power Member=Component C7 22pF/50V(5%)
+Added Member To Class: ClassName=01_Power Member=Component C8 10uF/16V(10%)
+Added Member To Class: ClassName=01_Power Member=Component C9 0.1uF/10V(10%)
+Added Member To Class: ClassName=01_Power Member=Component C10 0.1uF/10V(10%)
+Added Member To Class: ClassName=01_Power Member=Component C11 10uF/16V(10%)
+Added Member To Class: ClassName=01_Power Member=Component C12 22pF/50V(5%)
+Added Member To Class: ClassName=01_Power Member=Component C13 10uF/16V(10%)
+Added Member To Class: ClassName=01_Power Member=Component C14 0.1uF/10V(10%)
+Added Member To Class: ClassName=01_Power Member=Component C15 0.1uF/10V(10%)
+Added Member To Class: ClassName=01_Power Member=Component C16 10uF/16V(10%)
+Added Member To Class: ClassName=02_Module Member=Component C17 10uF/16V(10%)
+Added Member To Class: ClassName=02_Module Member=Component C18 0.1uF/10V(10%)
+Added Member To Class: ClassName=02_Module Member=Component C19 1uF/16V(10%)
+Added Member To Class: ClassName=03_ADC Member=Component C20 10nF/10V(10%)NC
+Added Member To Class: ClassName=03_ADC Member=Component C21 1uF/10V(20%)
+Added Member To Class: ClassName=03_ADC Member=Component C22 0.1uF/10V(10%)
+Added Member To Class: ClassName=03_ADC Member=Component C23 0.1uF/10V(10%)
+Added Member To Class: ClassName=03_ADC Member=Component C24 22pF/50V(5%)
+Added Member To Class: ClassName=03_ADC Member=Component C25 22pF/50V(5%)
+Added Member To Class: ClassName=03_ADC Member=Component C26 1uF/10V(20%)
+Added Member To Class: ClassName=03_ADC Member=Component C27 1uF/10V(20%)
+Added Member To Class: ClassName=03_ADC Member=Component C28 22pF/50V(5%)
+Added Member To Class: ClassName=03_ADC Member=Component C29 22pF/50V(5%)
+Added Member To Class: ClassName=03_ADC Member=Component C30 22pF/50V(5%)
+Added Member To Class: ClassName=03_ADC Member=Component C31 1uF/10V(20%)
+Added Member To Class: ClassName=03_ADC Member=Component C32 1uF/10V(20%)
+Added Member To Class: ClassName=03_ADC Member=Component C33 1uF/10V(20%)
+Added Member To Class: ClassName=03_ADC Member=Component C34 1uF/10V(20%)
+Added Member To Class: ClassName=03_ADC Member=Component C35 1uF/10V(20%)
+Added Member To Class: ClassName=03_ADC Member=Component C36 1uF/10V(20%)
+Added Member To Class: ClassName=03_ADC Member=Component C37 1uF/10V(20%)
+Added Member To Class: ClassName=03_ADC Member=Component C38 1uF/10V(20%)
+Added Member To Class: ClassName=03_ADC Member=Component C39 1uF/10V(20%)
+Added Member To Class: ClassName=03_ADC Member=Component C40 1uF/10V(20%)
+Added Member To Class: ClassName=03_ADC Member=Component C41 1uF/10V(20%)
+Added Member To Class: ClassName=03_ADC Member=Component C42 1uF/10V(20%)
+Added Member To Class: ClassName=03_ADC Member=Component C43 1uF/10V(20%)
+Added Member To Class: ClassName=03_ADC Member=Component C44 1uF/10V(20%)
+Added Member To Class: ClassName=03_ADC Member=Component C45 1uF/10V(20%)
+Added Member To Class: ClassName=03_ADC Member=Component C46 0.1uF/10V(10%)
+Added Member To Class: ClassName=03_ADC Member=Component C47 10uF/10V(20%)
+Added Member To Class: ClassName=03_ADC Member=Component C48 10uF/10V(20%)
+Added Member To Class: ClassName=03_ADC Member=Component C49 0.1uF/10V(10%)
+Added Member To Class: ClassName=03_ADC Member=Component C50 0.1uF/10V(10%)
+Added Member To Class: ClassName=03_ADC Member=Component C51 22pF/50V(5%)
+Added Member To Class: ClassName=03_ADC Member=Component C52 22pF/50V(5%)
+Added Member To Class: ClassName=04_Codec Member=Component C53 1uF/10V(20%)
+Added Member To Class: ClassName=04_Codec Member=Component C54 22pF/50V(5%)
+Added Member To Class: ClassName=04_Codec Member=Component C55 22pF/50V(5%)
+Added Member To Class: ClassName=04_Codec Member=Component C56 1uF/10V(20%)
+Added Member To Class: ClassName=04_Codec Member=Component C57 1uF/10V(20%)
+Added Member To Class: ClassName=04_Codec Member=Component C58 1uF/10V(20%)
+Added Member To Class: ClassName=04_Codec Member=Component C59 0.1uF/10V(10%)
+Added Member To Class: ClassName=04_Codec Member=Component C60 1uF/10V(20%)
+Added Member To Class: ClassName=04_Codec Member=Component C61 1uF/10V(20%)
+Added Member To Class: ClassName=04_Codec Member=Component C62 0.1uF/10V(10%)
+Added Member To Class: ClassName=04_Codec Member=Component C63 22pF/50V(5%)
+Added Member To Class: ClassName=04_Codec Member=Component C64 22pF/50V(5%)
+Added Member To Class: ClassName=04_Codec Member=Component C65 22pF/50V(5%)
+Added Member To Class: ClassName=04_Codec Member=Component C66 22pF/50V(5%)
+Added Member To Class: ClassName=04_Codec Member=Component C67 22pF/50V(5%)
+Added Member To Class: ClassName=04_Codec Member=Component C75 1uF/10V(20%)
+Added Member To Class: ClassName=04_Codec Member=Component C76 1uF/10V(20%)
+Added Member To Class: ClassName=04_Codec Member=Component C79 330pF/50V(10%)(NC)
+Added Member To Class: ClassName=04_Codec Member=Component C80 0.1uF/10V(10%)
+Added Member To Class: ClassName=04_Codec Member=Component C81 22pF/50V(5%)
+Added Member To Class: ClassName=04_Codec Member=Component C82 330pF/50V(10%)(NC)
+Added Member To Class: ClassName=04_Codec Member=Component C83 330pF/50V(10%)(NC)
+Added Member To Class: ClassName=04_Codec Member=Component C84 0.1uF/10V(10%)
+Added Member To Class: ClassName=04_Codec Member=Component C85 22pF/50V(5%)
+Added Member To Class: ClassName=05_interface Member=Component C86 0.1uF/6.3V(10%)
+Added Member To Class: ClassName=05_interface Member=Component C87 10uF/6.3V(20%)
+Added Member To Class: ClassName=05_interface Member=Component C88 0.1uF/6.3V(10%)
+Added Member To Class: ClassName=04_Codec Member=Component C100 22uF/10V(10%)
+Added Member To Class: ClassName=04_Codec Member=Component C101 22uF/10V(10%)
+Added Member To Class: ClassName=01_Power Member=Component D1 B5819W
+Added Member To Class: ClassName=01_Power Member=Component D2 LESD5D5.0CT1G
+Added Member To Class: ClassName=05_interface Member=Component D3 LED-GREEN
+Added Member To Class: ClassName=01_Power Member=Component D4 LESD5D5.0CT1G
+Added Member To Class: ClassName=01_Power Member=Component D5 LESD5D5.0CT1G
+Added Member To Class: ClassName=05_interface Member=Component D11 LESD8D3.3CAT5G
+Added Member To Class: ClassName=05_interface Member=Component D12 LESD8D3.3CAT5G
+Added Member To Class: ClassName=02_Module Member=Component D14 LESD8D3.3CAT5G
+Added Member To Class: ClassName=01_Power Member=Component L1 2.2uH(20%)_3A
+Added Member To Class: ClassName=01_Power Member=Component L2 2.2uH(20%)_3A
+Added Member To Class: ClassName=01_Power Member=Component L3 2.2uH(20%)_3A
+Added Member To Class: ClassName=04_Codec Member=Component L4 0(1%)
+Added Member To Class: ClassName=04_Codec Member=Component L5 0(1%)
+Added Member To Class: ClassName=01_Power Member=Component P1 4P
+Added Member To Class: ClassName=04_Codec Member=Component PAD2 SMD2_2P54
+Added Member To Class: ClassName=03_ADC Member=Component Q1 AO3401A
+Added Member To Class: ClassName=01_Power Member=Component R1 10K(1%)
+Added Member To Class: ClassName=01_Power Member=Component R2 680K(1%)
+Added Member To Class: ClassName=01_Power Member=Component R3 150K(1%)
+Added Member To Class: ClassName=01_Power Member=Component R4 0(1%)
+Added Member To Class: ClassName=01_Power Member=Component R5 0(1%)
+Added Member To Class: ClassName=01_Power Member=Component R6 10K(1%)
+Added Member To Class: ClassName=01_Power Member=Component R7 680K(1%)
+Added Member To Class: ClassName=01_Power Member=Component R8 150K(1%)
+Added Member To Class: ClassName=01_Power Member=Component R9 10K(1%)
+Added Member To Class: ClassName=01_Power Member=Component R10 680K(1%)
+Added Member To Class: ClassName=01_Power Member=Component R11 150K(1%)
+Added Member To Class: ClassName=02_Module Member=Component R12 0(1%)
+Added Member To Class: ClassName=02_Module Member=Component R13 10K(1%)
+Added Member To Class: ClassName=03_ADC Member=Component R14 0(1%)
+Added Member To Class: ClassName=03_ADC Member=Component R15 0(1%)
+Added Member To Class: ClassName=02_Module Member=Component R16 1K(1%)
+Added Member To Class: ClassName=02_Module Member=Component R17 1K(1%)
+Added Member To Class: ClassName=03_ADC Member=Component R18 0(1%)
+Added Member To Class: ClassName=03_ADC Member=Component R19 0(1%)
+Added Member To Class: ClassName=03_ADC Member=Component R20 0(1%)
+Added Member To Class: ClassName=03_ADC Member=Component R21 10K(1%)
+Added Member To Class: ClassName=03_ADC Member=Component R22 10K(1%)(NC)
+Added Member To Class: ClassName=03_ADC Member=Component R23 10K(1%)
+Added Member To Class: ClassName=03_ADC Member=Component R24 10K(1%)(NC)
+Added Member To Class: ClassName=03_ADC Member=Component R25 10K(1%)
+Added Member To Class: ClassName=03_ADC Member=Component R26 51(1%)
+Added Member To Class: ClassName=03_ADC Member=Component R27 0(1%)(NC)
+Added Member To Class: ClassName=03_ADC Member=Component R28 0(1%)
+Added Member To Class: ClassName=03_ADC Member=Component R30 10K(1%)
+Added Member To Class: ClassName=03_ADC Member=Component R31 10K(1%)(NC)
+Added Member To Class: ClassName=03_ADC Member=Component R32 0(1%)
+Added Member To Class: ClassName=03_ADC Member=Component R33 0(1%)
+Added Member To Class: ClassName=03_ADC Member=Component R34 0(1%)
+Added Member To Class: ClassName=03_ADC Member=Component R35 0(1%)
+Added Member To Class: ClassName=03_ADC Member=Component R36 0(1%)
+Added Member To Class: ClassName=03_ADC Member=Component R37 0(1%)
+Added Member To Class: ClassName=04_Codec Member=Component R40 10K(1%)(NC)
+Added Member To Class: ClassName=04_Codec Member=Component R41 10K(1%)(NC)
+Added Member To Class: ClassName=04_Codec Member=Component R42 10K(1%)(NC)
+Added Member To Class: ClassName=04_Codec Member=Component R43 10K(1%)
+Added Member To Class: ClassName=04_Codec Member=Component R44 0(1%)
+Added Member To Class: ClassName=04_Codec Member=Component R45 0(1%)
+Added Member To Class: ClassName=04_Codec Member=Component R46 0(1%)
+Added Member To Class: ClassName=04_Codec Member=Component R47 0(1%)
+Added Member To Class: ClassName=04_Codec Member=Component R48 0(1%)
+Added Member To Class: ClassName=04_Codec Member=Component R49 0(1%)
+Added Member To Class: ClassName=04_Codec Member=Component R50 0(1%)
+Added Member To Class: ClassName=04_Codec Member=Component R51 0(1%)
+Added Member To Class: ClassName=04_Codec Member=Component R52 0(1%)
+Added Member To Class: ClassName=04_Codec Member=Component R53 0(1%)(NC)
+Added Member To Class: ClassName=04_Codec Member=Component R60 0(1%)(NC)
+Added Member To Class: ClassName=04_Codec Member=Component R61 0(1%)
+Added Member To Class: ClassName=04_Codec Member=Component R66 0(1%)
+Added Member To Class: ClassName=04_Codec Member=Component R67 0(1%)
+Added Member To Class: ClassName=04_Codec Member=Component R68 10K(1%)
+Added Member To Class: ClassName=04_Codec Member=Component R69 150K(1%)
+Added Member To Class: ClassName=04_Codec Member=Component R70 150K(1%)
+Added Member To Class: ClassName=04_Codec Member=Component R71 0(1%)
+Added Member To Class: ClassName=04_Codec Member=Component R72 0(1%)(NC)
+Added Member To Class: ClassName=05_interface Member=Component R74 51(1%)
+Added Member To Class: ClassName=05_interface Member=Component SW1 SW_SP_4P
+Added Member To Class: ClassName=05_interface Member=Component SW2 SW_SP_4P
+Added Member To Class: ClassName=01_Power Member=Component TP1 TESTPOINT
+Added Member To Class: ClassName=01_Power Member=Component TP2 TESTPOINT
+Added Member To Class: ClassName=01_Power Member=Component TP3 TESTPOINT
+Added Member To Class: ClassName=01_Power Member=Component TP4 TESTPOINT
+Added Member To Class: ClassName=03_ADC Member=Component TP5 TESTPOINT
+Added Member To Class: ClassName=03_ADC Member=Component TP6 TESTPOINT
+Added Member To Class: ClassName=04_Codec Member=Component TP7 TESTPOINT
+Added Member To Class: ClassName=04_Codec Member=Component TP8 TESTPOINT
+Added Member To Class: ClassName=04_Codec Member=Component TP9 TESTPOINT
+Added Member To Class: ClassName=05_interface Member=Component TP37 TESTPOINT
+Added Member To Class: ClassName=05_interface Member=Component TP38 TESTPOINT
+Added Member To Class: ClassName=01_Power Member=Component U1 SY8088AAC
+Added Member To Class: ClassName=01_Power Member=Component U2 SY8088AAC
+Added Member To Class: ClassName=01_Power Member=Component U3 SY8088AAC
+Added Member To Class: ClassName=02_Module Member=Component U4 ESP32-S3-WROOM-1
+Added Member To Class: ClassName=03_ADC Member=Component U5 ES7210
+Added Member To Class: ClassName=03_ADC Member=Component U6 SN74LVC1G126
+Added Member To Class: ClassName=04_Codec Member=Component U9 ES8311
+Added Member To Class: ClassName=04_Codec Member=Component U10 NS4150
+Added Member To Class: ClassName=05_interface Member=Component U11 ATECC608A
+Added Member To Class: ClassName=03_ADC Member=Component U19 MSM381A3729H9BPC
+Added Member To Class: ClassName=03_ADC Member=Component U20 MSM381A3729H9BPC
+Added Room: Name=01_Power
+Added Room: Name=02_Module
+Added Room: Name=03_ADC
+Added Room: Name=05_interface

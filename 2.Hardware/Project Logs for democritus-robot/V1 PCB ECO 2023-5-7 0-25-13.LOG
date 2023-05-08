@@ -1,0 +1,9 @@
+Added Component: Designator=D5(SOD-523)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CODE12"; Value = "ES31.32.0020.00.0.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Filename"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ES31320020000000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Diode"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D5-1
+Added Pin To Net: NetName=NetD1_1 Pin=D5-2
+Added Member To Class: ClassName=02_Power Member=Component D5 LESD5D5.0CT1G
