@@ -1,7 +1,10 @@
-1.原理图电源通道检查 OK (MCU_VCC & AUD_VCC )    (GND & ADC_GND & PA_GND)
+1.原理图电源通道检查 模拟地、数字地、电源地分割
+（MCU_VCC）
+（AUD_VDD → ADC_VCC33→ADC_MICBIAS12 )   
+ (GND & ADC_GND & PA_GND) MIC_GND?
 2.原理图信号通道检查 OK
 3.原理图引脚检查 OK
-4.pcb电源通道优化
+4.pcb电源通道优化 （AMIC的地单独处理）
 5.pcb信道通道优化
 6.pcb封装匹配
 7.drc线路检查 OK 
